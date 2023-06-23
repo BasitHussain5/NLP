@@ -6,7 +6,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1cbZCvdKC7qbZDecikYOCsrCAHRUGkooLLR6eCYKizCs/edit?usp=sharing 
 
 Project title:
 Market Demand Analysis Using NLP in Persian and Urdu Language.
