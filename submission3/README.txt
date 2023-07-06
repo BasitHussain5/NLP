@@ -3,7 +3,7 @@ https://youtube.com/.....
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/BasitHussain5/NLP/blob/main/submission3/10%20-%20Machine%20Translation%20Concept%20Diagram.png
 Native/original format: 
 https://draw.io/...
 
