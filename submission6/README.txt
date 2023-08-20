@@ -4,6 +4,9 @@ https://www.overleaf.com/3478575924kttkhwywtvxc
 Unlisted YouTube video:
 https://youtu.be/8dFRdoEN5Cw
 
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1hJBNSvpjcmIooQW4wz5Wt1jShECSkyxMxD22LzpLFuQ/edit?usp=sharing
+
 Paper title:
 Market Demand Analysis Using NLP in Urdu Language.
 
