@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/3478575924kttkhwywtvxc
 
 Unlisted YouTube video:
-https://youtu.be/dZbfOsoLcPE
+https://youtu.be/8dFRdoEN5Cw
 
 Paper title:
 Market Demand Analysis Using NLP in Urdu Language.
