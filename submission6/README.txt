@@ -10,6 +10,14 @@ https://docs.google.com/presentation/d/1hJBNSvpjcmIooQW4wz5Wt1jShECSkyxMxD22LzpL
 Paper title:
 Market Demand Analysis Using NLP in Urdu Language.
 
+Conference login link for submitted paper: https://cmt3.research.microsoft.com/ICDETKDEPosters2024/Submission/Index 
+
+Conference Name: IEEE International Conference on Data Engineering 2024 (TKDE Posters) 
+
+Conference URL: https://icde2024.github.io/index.html  
+
+Conference Submission Date: 9/13/2023
+
 Group Number:
 1
 
